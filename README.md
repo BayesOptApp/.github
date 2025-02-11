@@ -24,10 +24,10 @@ This organization hosts repositories for both:
 
 _(There's a lot happening behind the scenes! Stay tuned for more!)_  
 
-### 🔹 [Benchmarking High-Dimensional Bayesian Optimization Algorithms](https://github.com/BayesOptApp/Topology_Optimization)  
+### 🔹 [Benchmarking High-Dimensional Bayesian Optimization Algorithms](https://github.com/BayesOptApp/IOH-Profiler-HDBO-Comparison)  
 Investigating the performance of BO algorithms in high-dimensional spaces, comparing state-of-the-art methods, and understanding their scalability.  
 
-### 🔹 [Black-Box Algorithms for Topology Optimization](https://github.com/BayesOptApp/IOH-Profiler-HDBO-Comparison)  
+### 🔹 [Black-Box Algorithms for Topology Optimization](https://github.com/BayesOptApp/Topology_Optimization)  
 Leveraging BO to optimize material and structure designs without explicit analytical models, crucial for engineering applications.  
 
 ---
